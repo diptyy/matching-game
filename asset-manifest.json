@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/matching-game/static/js/main.23dba81b.chunk.js",
+    "main.js.map": "/matching-game/static/js/main.23dba81b.chunk.js.map",
+    "runtime-main.js": "/matching-game/static/js/runtime-main.41a8dce9.js",
+    "runtime-main.js.map": "/matching-game/static/js/runtime-main.41a8dce9.js.map",
+    "static/js/2.b67714ef.chunk.js": "/matching-game/static/js/2.b67714ef.chunk.js",
+    "static/js/2.b67714ef.chunk.js.map": "/matching-game/static/js/2.b67714ef.chunk.js.map",
+    "index.html": "/matching-game/index.html",
+    "static/js/2.b67714ef.chunk.js.LICENSE.txt": "/matching-game/static/js/2.b67714ef.chunk.js.LICENSE.txt",
+    "static/media/back.7c2c3c2e.png": "/matching-game/static/media/back.7c2c3c2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41a8dce9.js",
+    "static/js/2.b67714ef.chunk.js",
+    "static/js/main.23dba81b.chunk.js"
+  ]
+}
